@@ -478,3 +478,14 @@ footer {
   margin-bottom: 15px;
 }
   */
+
+/* Format personal link
+*/
+.person-link {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.person-link:hover {
+  text-decoration: underline;
+}
