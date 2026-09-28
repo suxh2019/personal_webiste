@@ -489,3 +489,18 @@ footer {
 .person-link:hover {
   text-decoration: underline;
 }
+
+/* publication */
+.publication-list {
+  padding-left: 22px;
+}
+
+.publication-list li {
+  margin-bottom: 18px;
+  line-height: 1.6;
+}
+
+.publication-list a {
+  text-decoration: none;
+  margin-left: 6px;
+}
